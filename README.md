@@ -1,9 +1,15 @@
 # Ubiquitous Winner
+![Build Status](https://img.shields.io/github/workflow/status/Ked-Design76/ubiquitous-winner/CI)
+![License](https://img.shields.io/github/license/Ked-Design76/ubiquitous-winner)
+![Version](https://img.shields.io/github/v/release/Ked-Design76/ubiquitous-winner)
 
-Welcome to my personal portfolio! This repository showcases my projects and creative work, as well as documenting my journey as a developer and designer.
+Welcome to my personal portfolio! This repository showcases my projects and creative work...
+
+## Live Portfolio
+
+Visit my live portfolio here: [Ubiquitous Winner Portfolio](https://ked-design76.github.io/ubiquitous-winner/)
 
 ## Table of Contents
-
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -13,78 +19,47 @@ Welcome to my personal portfolio! This repository showcases my projects and crea
 - [License](#license)
 
 ## About the Project
+This repository includes various web development projects and design work that I have created or contributed to...
 
-This repository includes various web development projects and design work that I have created or contributed to. Each project is a step in my journey to improve my skills and grow as a developer.
+## Portfolio Preview
 
-## Features
+Here’s a preview of my portfolio:
 
-- **Portfolio Showcase**: Highlights web development and design projects.
-- **Code Repository**: Contains code for my personal website and other creative works.
-- **Documentation**: Chronicles my learning process and development journey.
+![Portfolio Screenshot](https://github.com/Ked-Design76/ubiquitous-winner/blob/main/images/portfolio-screenshot.png)
 
 ## Technologies Used
-
-- **HTML, CSS, JavaScript**: For front-end development.
-- **Node.js**: (If applicable) For server-side scripting.
-- **GitHub Pages**: For project deployment.
+- HTML, CSS, JavaScript
+- Node.js
+- GitHub Pages
 
 ## Installation
-
 Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ked_Design76/ubiquitous-winner.git
+git clone https://github.com/Ked-Design76/ubiquitous-winner.git
 
 # Navigate to the project directory
 cd ubiquitous-winner
 
 # Install dependencies (if applicable)
-npm install # or pip install -r requirements.txt
-```
+npm install
+npm start
 
-## Usage
+Contributing
+If you'd like to contribute to this project, follow these steps...
 
-Here’s how to use the project:
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-```bash
-# Start the project
-npm start # or python app.py (depending on the stack)
-```
+Project Demo
+Watch a demo of my project here:
 
-Provide examples of how to interact with the project. You may include screenshots or additional usage tips for clarity.
+Demo Video <!-- Replace with your actual demo link -->
 
-## Contributing
-
-If you'd like to contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Push your changes to the branch.
-5. Open a Pull Request.
-
-```bash
-# Example workflow
-git checkout -b feature/your-feature
-# Make your changes
-git commit -m "Add your message here"
-git push origin feature/your-feature
-```
-
-Please ensure that your contributions align with the project’s guidelines and include meaningful changes.
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
-### Optional Sections (Include if needed)
-
-- **FAQs**: Provide answers to frequently asked questions about the project.
-- **Acknowledgements**: Credit contributors, libraries, or tools used in the project.
-- **Roadmap**: Outline planned updates and features for future development.
+### Key Changes:
+1. Removed the duplicated **Portfolio Preview** section.
+2. **Demo Video**: Ensure that you replace the placeholder URL (`https://www.youtube.com/watch?v=your-video-id`) with your actual demo URL.
 
 ## Contact
 Thank you for visiting my portfolio repository! If you have any questions or feedback, feel free to reach out.
@@ -92,6 +67,3 @@ Thank you for visiting my portfolio repository! If you have any questions or fee
 - **Email**: iamkaycel576@gmail.com
 - **GitHub Profile**: [Ked-Design76](https://github.com/Ked-Design76)
 - **LinkedIn Profile**: [Kaycel Dixon](https://www.linkedin.com/in/kayceldixon)
-
-
-

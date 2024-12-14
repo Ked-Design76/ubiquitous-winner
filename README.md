@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/github/license/Ked-Design76/ubiquitous-winner)
 ![Version](https://img.shields.io/github/v/release/Ked-Design76/ubiquitous-winner)
 
-Welcome to my personal portfolio! This repository showcases my projects and creative work...
+Welcome to my personal portfolio! This repository showcases my projects and creative work.
 
 ## Live Portfolio
 
@@ -11,15 +11,35 @@ Visit my live portfolio here: [Ubiquitous Winner Portfolio](https://ked-design76
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Features](#features)
+- [Portfolio Preview](#portfolio-preview)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Project Demo](#project-demo)
+- [Contact](#contact)
 
 ## About the Project
-This repository includes various web development projects and design work that I have created or contributed to...
+This repository includes various web development projects and design work that I have created or contributed to. It demonstrates my skills in front-end and back-end development, as well as my creative design capabilities.
+
+## Portfolio Preview
+
+Here’s a preview of my portfolio:
+
+![Portfolio Screenshot](https://github.com/Ked-Design76/ubiquitous-winner/blob/main/images/portfolio-screenshot.png)
+
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Portfolio Preview](#portfolio-preview)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Project Demo](#project-demo)
+- [Contact](#contact)
+
+## About the Project
+This repository includes various web development projects and design work that I have created or contributed to. It demonstrates my skills in front-end and back-end development, as well as my creative design capabilities.
 
 ## Portfolio Preview
 
@@ -28,7 +48,9 @@ Here’s a preview of my portfolio:
 ![Portfolio Screenshot](https://github.com/Ked-Design76/ubiquitous-winner/blob/main/images/portfolio-screenshot.png)
 
 ## Technologies Used
-- HTML, CSS, JavaScript
+- HTML
+- CSS
+- JavaScript
 - Node.js
 - GitHub Pages
 
@@ -44,11 +66,18 @@ cd ubiquitous-winner
 
 # Install dependencies (if applicable)
 npm install
+
+# Start the project
 npm start
 
 Contributing
-If you'd like to contribute to this project, follow these steps...
+If you'd like to contribute to this project, follow these steps:
 
+Fork the repository.
+Create a feature branch (git checkout -b feature/your-feature).
+Commit your changes (git commit -m "Add your message here").
+Push your changes to the branch (git push origin feature/your-feature).
+Open a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
@@ -57,13 +86,12 @@ Watch a demo of my project here:
 
 Demo Video <!-- Replace with your actual demo link -->
 
-### Key Changes:
-1. Removed the duplicated **Portfolio Preview** section.
-2. **Demo Video**: Ensure that you replace the placeholder URL (`https://www.youtube.com/watch?v=your-video-id`) with your actual demo URL.
-
-## Contact
+Contact
 Thank you for visiting my portfolio repository! If you have any questions or feedback, feel free to reach out.
-- **Kaycel Dixon**
-- **Email**: iamkaycel576@gmail.com
-- **GitHub Profile**: [Ked-Design76](https://github.com/Ked-Design76)
-- **LinkedIn Profile**: [Kaycel Dixon](https://www.linkedin.com/in/kayceldixon)
+
+Kaycel Dixon
+Email: iamkaycel576@gmail.com
+GitHub Profile: Ked-Design76
+LinkedIn Profile: Kaycel Dixon
+
+

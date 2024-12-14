@@ -86,8 +86,12 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Acknowledgements**: Credit contributors, libraries, or tools used in the project.
 - **Roadmap**: Outline planned updates and features for future development.
 
+## Contact
 Thank you for visiting my portfolio repository! If you have any questions or feedback, feel free to reach out.
-
+- **Kaycel Dixon**
+- **Email**: iamkaycel576@gmail.com
+- **GitHub Profile**: [Ked-Design76](https://github.com/Ked-Design76)
+- **LinkedIn Profile**: [Kaycel Dixon](https://www.linkedin.com/in/kayceldixon)
 
 
 

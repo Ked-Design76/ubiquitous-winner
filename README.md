@@ -25,29 +25,37 @@ Visit my live portfolio here: [Ubiquitous Winner Portfolio](https://ked-design76
 ---
 
 ## About the Project  
-This repository includes various web development projects and design work that I have created or contributed to. It demonstrates my skills in front-end and back-end development, as well as my creative design capabilities.  
+This repository showcases my journey as a developer and designer. It includes responsive websites, dynamic JavaScript applications, and creative design projects, highlighting my skills in HTML, CSS, JavaScript, and Node.js. My goal is to share my growth and inspire collaboration.  
 
 ---
 
 ## Portfolio Preview  
 Here’s a preview of my portfolio:  
 
+Add Screenshots or Media
+-Include images or videos of your portfolio/projects. This makes your README visually appealing.
+-Use Markdown to embed them:
+markdown
+Copy code
 ![Portfolio Screenshot](https://github.com/Ked-Design76/ubiquitous-winner/blob/main/images/portfolio-screenshot.png)  
 
 ---
 
 ## Technologies Used  
 - HTML  
-- CSS  
-- JavaScript  
+- CSS (with Flexbox and Grid) 
+- JavaScript (ES6+)  
 - Node.js  
 - GitHub Pages  
-
+-Bootstrap
+-Figma
 ---
 
 ## Installation  
 Follow these steps to set up the project locally:  
-
+Prerequisites:
+-Node.js v16 or higher
+-A code editor (e.g., VS Code)
 ```bash  
 # Clone the repository  
 git clone https://github.com/Ked-Design76/ubiquitous-winner.git  
